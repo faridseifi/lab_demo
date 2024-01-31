@@ -1,0 +1,7 @@
+/qalygain:
+  post:
+    engine: 
+      name: org.kgrid.python-activator
+      package: alcohol_control_package
+      module: index
+      function: qalygain

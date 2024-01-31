@@ -1,0 +1,31 @@
+{
+    "id": "alcohol",
+    "filenames": {
+    },
+    "columns": {
+      "age": 50,
+      "gender":0,
+      "race":0,
+      "smokeyear":0,
+      "cigpday":0,
+      "quityear":0,
+      "totalcholesterol":0,
+      "hdl":0,
+      "sbp":0,
+      "htmedication":0,
+      "diabetes":0,
+      "alcohol_abuse":1
+    },
+    "files": [],
+    "outputs":[
+      {
+        "id": "alcohol",
+        "field":"Year younger"
+      }
+    ],
+    "debug": true,
+    "dataset_full": true,
+    "csv_with_header_row": true,
+    "datatype": "Test",
+    "updatedOn": "20210611"
+}

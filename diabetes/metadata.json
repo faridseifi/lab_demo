@@ -1,0 +1,21 @@
+{
+    "@id": "99999/diabetes/v1.1.0",
+    "@type": "koio:KnowledgeObject",
+    "identifier": "ark:/99999/diabetes/v1.1.0",
+    "version": "v1.1.0",
+    "title": "QALY Gain By Diabetes Control",
+    "contributors": "Kgrid Team",
+    "description": "Quality-Adjusted Life Year Gain By Diabetes Control",
+    "keywords": [
+        "QALY",
+        "diabetes"
+    ],
+    "hasServiceSpecification": "service.yaml",
+    "hasDeploymentSpecification": "deployment.yaml",
+    "hasPayload": [
+        "src/index.js"
+    ],
+    "@context": [
+        "http://kgrid.org/koio/contexts/knowledgeobject.jsonld"
+    ]
+}

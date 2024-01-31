@@ -1,0 +1,6 @@
+/qalygain:
+  post:
+    engine: 
+      name: org.kgrid.javascript-activator
+      artifact: index.js
+      function: qalygain

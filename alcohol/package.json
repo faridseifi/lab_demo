@@ -1,0 +1,18 @@
+{
+    "name": "@kgrid/99999-alcohol",
+    "version": "1.1.0",
+    "description": "Quality-Adjusted Life Year Gain By Stop Using Alcohol",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "command-line-args": "^5.1.1",
+      "jest": "^25.1.0"
+    },
+    "dependencies": {
+      "@kgrid/qalyutil": "../../kgrid-qalyutil-1.2.0.tgz"
+    }
+}

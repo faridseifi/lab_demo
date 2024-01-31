@@ -1,0 +1,39 @@
+{
+    "id": "diabetes",
+    "filenames": {
+    },
+    "columns": {
+      "diabetes":0,
+      "a1c":0,
+      "age":50,
+      "gender":0,
+      "race":0,
+      "diabetes_duration":0,
+      "bmi":0,
+      "hdl":0,
+      "ldl":0,
+      "sbp":0,
+      "heartrate":0,
+      "wbc":0,
+      "haemoglobin":0,
+      "egfr":0,
+      "af":0,
+      "pvd":0,
+      "smokeyear":0,
+      "cigpday":0,
+      "quityear":0,
+      "albuminuria":0
+    },
+    "files": [],
+    "outputs":[
+      {
+        "id": "diabetes",
+        "field":"Year younger"
+      }
+    ],
+    "debug": true,
+    "dataset_full": true,
+    "csv_with_header_row": true,
+    "datatype": "Test",
+    "updatedOn": "20210218"
+}
